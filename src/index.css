@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-emerald-50: #f4f7f5;
+  --color-emerald-100: #e9efeb;
+  --color-emerald-200: #d1dfd6;
+  --color-emerald-300: #b9cfc1;
+  --color-emerald-400: #a3c1ad; /* Light green from logo */
+  --color-emerald-500: #7d9e8a;
+  --color-emerald-600: #4a5d52; /* Dark green from logo */
+  --color-emerald-700: #3b4a41;
+  --color-emerald-800: #2c3731;
+  --color-emerald-900: #1d2521;
+  --color-emerald-950: #0f1210;
+}
